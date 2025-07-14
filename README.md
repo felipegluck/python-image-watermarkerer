@@ -99,4 +99,4 @@ This tool has a solid foundation. Potential future features include:
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ---
-*Built with Python & ☕ by [Felipe Glücksman]*
+*Built with Python & ☕ by **Felipe Glücksman***
